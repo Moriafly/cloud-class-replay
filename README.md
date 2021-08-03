@@ -18,7 +18,7 @@
 
 1. 克隆本项目到某当前 `git clone https://github.com/yeefire/cloud-class-replay.git`
 2. 进入项目目录 `cd cloud-class-replay`
-3. 创建虚拟环境 `pyhton3 -m venv ./venv`
+3. 创建虚拟环境 `python3 -m venv ./venv`
 4. 激活虚拟环境 `source venv/bin/activate`
 5. 先安装依赖模块 `pip3 install -r requirements.txt`
 6. 命令行执行 
